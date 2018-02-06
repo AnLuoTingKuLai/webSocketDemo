@@ -12,7 +12,8 @@
   "author": "cdd",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "nodejs-websocket": "^1.7.1"
   },
   "devDependencies": {
     "express": "^4.16.2"
